@@ -18,6 +18,7 @@ OUTPUTS:
 GENERAL USAGE NOTES:
   NOTE 1: Simply call the function and specify an output variable to dump the structure of 
           colours HEX codes into it
+          
           For example:
                           colours = MJN_Plot_Colours;
 
