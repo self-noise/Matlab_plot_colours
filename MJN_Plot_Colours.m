@@ -40,7 +40,7 @@
 % Date:             October 2024
 % Platform:         Matlab
 % Location (local): [Matlab_root]/LIBRARY/MJN_Code_Library/MJN_Plotting/
-% GitHub location:  https://github.com/self-noise/Audio-Acoustics-DSP-Tools
+% GitHub location:  https://github.com/self-noise/Matlab_plot_colours
 %---------------------------------------------------------------------------------------------%
 function [colVec] = MJN_Plot_Colours
 

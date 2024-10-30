@@ -1,3 +1,14 @@
+Author:           Dr Mike Newton
+
+Date:             October 2024
+
+Platform:         Matlab
+
+Location (local): [Matlab_root]/LIBRARY/MJN_Code_Library/MJN_Plotting/
+
+GitHub location:  https://github.com/self-noise/Audio-Acoustics-DSP-Tools
+
+-------------------------------------------------
 FUNCTION NAME AND SPECIFICATION
 
   [colVec] = MJN_Plot_Colours
@@ -35,13 +46,3 @@ CHANGES TO ADD AT SOME POINT IN THE FUTURE:
 
 CHANGELOG:
   2024-10-30: Initial coding
-
-Author:           Dr Mike Newton
-
-Date:             October 2024
-
-Platform:         Matlab
-
-Location (local): [Matlab_root]/LIBRARY/MJN_Code_Library/MJN_Plotting/
-
-GitHub location:  https://github.com/self-noise/Audio-Acoustics-DSP-Tools
