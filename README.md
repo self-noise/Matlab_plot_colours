@@ -37,7 +37,11 @@ CHANGELOG:
   2024-10-30: Initial coding
 
 Author:           Dr Mike Newton
+
 Date:             October 2024
+
 Platform:         Matlab
+
 Location (local): [Matlab_root]/LIBRARY/MJN_Code_Library/MJN_Plotting/
+
 GitHub location:  https://github.com/self-noise/Audio-Acoustics-DSP-Tools
