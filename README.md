@@ -11,7 +11,7 @@ GitHub location:  https://github.com/self-noise/Matlab_plot_colours
 -------------------------------------------------
 FUNCTION NAME AND SPECIFICATION
 
-  [colVec] = MJN_Plot_Colours
+  [colVec] = MJN_Colours
 
 PURPOSE OF THIS FUNCTION:
           (1) Calling the function returns a structure containing various lists of nice 
@@ -44,5 +44,10 @@ GENERAL USAGE NOTES:
 CHANGES TO ADD AT SOME POINT IN THE FUTURE:
   No further changes likely
 
+REFERENCES:
+  https://sashamaps.net/docs/resources/20-colors/
+  https://ethanschoonover.com/solarized/
+
 CHANGELOG:
-  2024-10-30: Initial coding
+        2024-11-27: Updated filename and colour ordering for '.col' items
+        2024-10-30: Initial coding
