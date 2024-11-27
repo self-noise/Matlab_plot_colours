@@ -32,14 +32,14 @@ GENERAL USAGE NOTES:
           colours HEX codes into it
           
           For example:
-                          colours = MJN_Plot_Colours;
+                          colours = MJN_Colours;
 
           and access a colour from a given list of colours via:
                           colours.sol8{1}
                           colours.solMono{7}
           etc
           In use example:
-                          colours = MJN_Plot_Colours;
+                          colours = MJN_Colours;
                           plot(rand(10,1),'Color',colours.sol8{3})
 
 CHANGES TO ADD AT SOME POINT IN THE FUTURE:
