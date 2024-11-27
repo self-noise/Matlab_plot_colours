@@ -52,5 +52,7 @@ REFERENCES:
   https://ethanschoonover.com/solarized/
 
 CHANGELOG:
+
         2024-11-27: Updated filename and colour ordering for '.col' items
+
         2024-10-30: Initial coding
