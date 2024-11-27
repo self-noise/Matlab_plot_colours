@@ -27,6 +27,7 @@ OUTPUTS:
               .solMono                Array of HEX codes for 8 core monos from 'solarized'
 
 GENERAL USAGE NOTES:
+
   NOTE 1: Simply call the function and specify an output variable to dump the structure of 
           colours HEX codes into it
           
