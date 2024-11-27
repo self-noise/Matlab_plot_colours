@@ -21,10 +21,14 @@ INPUTS:
           None required
 
 OUTPUTS:
+          
           colVec                      Structure containing 3 arrays
-              .col                    Array of HEX codes drawn from citation as noted
-              .sol8                   Array of HEX codes for 8 core colours from 'solarized'
-              .solMono                Array of HEX codes for 8 core monos from 'solarized'
+          
+                .col                    Array of HEX codes drawn from citation as noted
+            
+                .sol8                   Array of HEX codes for 8 core colours from 'solarized'
+              
+                .solMono                Array of HEX codes for 8 core monos from 'solarized'
 
 GENERAL USAGE NOTES:
 
@@ -38,7 +42,8 @@ GENERAL USAGE NOTES:
                           colours.sol8{1}
                           colours.solMono{7}
           etc
-          In use example:
+          
+          Full usage example:
                           colours = MJN_Colours;
                           plot(rand(10,1),'Color',colours.sol8{3})
 
