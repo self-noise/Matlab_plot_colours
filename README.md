@@ -46,7 +46,9 @@ CHANGES TO ADD AT SOME POINT IN THE FUTURE:
   No further changes likely
 
 REFERENCES:
+
   https://sashamaps.net/docs/resources/20-colors/
+
   https://ethanschoonover.com/solarized/
 
 CHANGELOG:
